@@ -53,3 +53,14 @@ Postgres: Banco de dados relacional escolhido para o ambiente de produção.
 ![Domain Model ](https://github.com/user-attachments/assets/1f44deed-2044-486b-ad6b-55d85af5c475)
 ![Domain Instance ](https://github.com/user-attachments/assets/70cf809d-3084-4ecf-9fdc-16332ec45046)
 
+
+# Autor: <br />
+Davi Cezar Alves <br />
+https://www.linkedin.com/in/davi-cezar-gomes
+
+
+# Agradecimentos: <br />
+
+Professor: Nélio Alves. <br />
+https://devsuperior.com.br/cursos <br />
+https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br
